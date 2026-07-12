@@ -1,0 +1,13 @@
+required_fields:
+  - hostname
+  - environment
+  - os
+  - template
+  - application
+  - ownerrequired_fields:
+  - hostname
+  - environment
+  - os
+  - template
+  - application
+  - owner
