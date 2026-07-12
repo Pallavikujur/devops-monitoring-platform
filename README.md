@@ -1,2 +1,21 @@
-# devops-monitoring-platform
-Enterprise-style DevOps project demonstrating CI/CD automation for monitoring deployment using Jenkins, Python, Ansible, Docker, Kubernetes, Prometheus, and Grafana.
+# DevOps Monitoring Platform
+
+## Overview
+
+This project demonstrates an enterprise-style monitoring deployment pipeline using modern DevOps tools.
+
+## Tech Stack
+
+- Jenkins
+- Git
+- Python
+- Ansible
+- Docker
+- Kubernetes
+- Prometheus
+- Grafana
+- AWS
+
+## Architecture
+
+User Request → Jenkins → Python Validation → Git → Ansible → Telegraf → Verification → Prometheus → Grafana
