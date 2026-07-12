@@ -1,0 +1,5 @@
+{
+    "hostname": "linux01",
+    "environment": "Prod",
+    "template": "linux-default"
+}
